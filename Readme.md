@@ -14,6 +14,7 @@
 - [Philosophy](#philosophy)
 - [Examples](#examples)
 - [Contributing](#contributing)
+- 
   - [Security Issues](#security-issues)
   - [Running Tests](#running-tests)
 - [Current project team members](#current-project-team-members)
